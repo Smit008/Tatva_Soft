@@ -1,0 +1,459 @@
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\appsettings.Development.json
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\appsettings.json
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.exe
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.deps.json
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.runtimeconfig.json
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.pdb
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Humanizer.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\JWT.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Npgsql.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.CodeDom.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.csproj.AssemblyReference.cache
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.AssemblyInfoInputs.cache
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.AssemblyInfo.cs
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.csproj.CoreCompileInputs.cache
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.MvcApplicationPartsAssemblyInfo.cs
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.MvcApplicationPartsAssemblyInfo.cache
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets.build.json
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets.development.json
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.CIPlatformWebAPI_PostgreSQL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.build.CIPlatformWebAPI_PostgreSQL.props
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CIPlatformWebAPI_PostgreSQL.props
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CIPlatformWebAPI_PostgreSQL.props
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\scopedcss\bundle\CIPlatformWebAPI_PostgreSQL.styles.css
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.csproj.CopyComplete
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\refint\CIPlatformWebAPI_PostgreSQL.dll
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.pdb
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.genruntimeconfig.cache
+D:\ADIT Material\TatvaSoft Internship\.net practice\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\ref\CIPlatformWebAPI_PostgreSQL.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\appsettings.Development.json
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\appsettings.json
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.exe
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.deps.json
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.runtimeconfig.json
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.pdb
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Humanizer.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\JWT.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Npgsql.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.CodeDom.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.csproj.AssemblyReference.cache
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.AssemblyInfoInputs.cache
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.AssemblyInfo.cs
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.csproj.CoreCompileInputs.cache
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.MvcApplicationPartsAssemblyInfo.cs
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.MvcApplicationPartsAssemblyInfo.cache
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets.development.json
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.CIPlatformWebAPI_PostgreSQL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.build.CIPlatformWebAPI_PostgreSQL.props
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CIPlatformWebAPI_PostgreSQL.props
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CIPlatformWebAPI_PostgreSQL.props
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\scopedcss\bundle\CIPlatformWebAPI_PostgreSQL.styles.css
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.csproj.CopyComplete
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\refint\CIPlatformWebAPI_PostgreSQL.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.pdb
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.genruntimeconfig.cache
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\ref\CIPlatformWebAPI_PostgreSQL.dll
+D:\Sem 6\Summer Internship\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.staticwebassets.runtime.json
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.staticwebassets.runtime.json
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.exe
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.deps.json
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.runtimeconfig.json
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.pdb
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Humanizer.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\JWT.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Npgsql.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.AssemblyInfo.cs
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.CIPlatformWebAPI_PostgreSQL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.build.CIPlatformWebAPI_PostgreSQL.props
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CIPlatformWebAPI_PostgreSQL.props
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CIPlatformWebAPI_PostgreSQL.props
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\scopedcss\bundle\CIPlatformWebAPI_PostgreSQL.styles.css
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatfo.7B3FB841.Up2Date
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\refint\CIPlatformWebAPI_PostgreSQL.dll
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.pdb
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.genruntimeconfig.cache
+C:\Users\User\Downloads\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\ref\CIPlatformWebAPI_PostgreSQL.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\appsettings.Development.json
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\appsettings.json
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.staticwebassets.runtime.json
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.exe
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.deps.json
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.runtimeconfig.json
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.pdb
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Humanizer.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\JWT.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Npgsql.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.CodeDom.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.csproj.AssemblyReference.cache
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.AssemblyInfoInputs.cache
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.AssemblyInfo.cs
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.csproj.CoreCompileInputs.cache
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.MvcApplicationPartsAssemblyInfo.cs
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.MvcApplicationPartsAssemblyInfo.cache
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets.build.json
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets.development.json
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.CIPlatformWebAPI_PostgreSQL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.build.CIPlatformWebAPI_PostgreSQL.props
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CIPlatformWebAPI_PostgreSQL.props
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CIPlatformWebAPI_PostgreSQL.props
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\staticwebassets.pack.json
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\scopedcss\bundle\CIPlatformWebAPI_PostgreSQL.styles.css
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatfo.7B3FB841.Up2Date
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\refint\CIPlatformWebAPI_PostgreSQL.dll
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.pdb
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\CIPlatformWebAPI_PostgreSQL.genruntimeconfig.cache
+D:\coding\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\CIPlatformWebAPI_PostgreSQL\obj\Debug\net8.0\ref\CIPlatformWebAPI_PostgreSQL.dll

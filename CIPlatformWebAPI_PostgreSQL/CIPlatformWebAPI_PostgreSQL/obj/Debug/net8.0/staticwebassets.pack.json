@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\coding\\CIPlatformWebAPI_PostgreSQL\\CIPlatformWebAPI_PostgreSQL\\CIPlatformWebAPI_PostgreSQL\\wwwroot\\UploadMissionImage\\Mission\\LOGO-campusbites_20240603150755.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\LOGO-campusbites_20240603150755.jpg"
+    },
+    {
+      "Id": "D:\\coding\\CIPlatformWebAPI_PostgreSQL\\CIPlatformWebAPI_PostgreSQL\\CIPlatformWebAPI_PostgreSQL\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-30 211036_20240602212451.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Screenshot 2024-05-30 211036_20240602212451.png"
+    },
+    {
+      "Id": "D:\\coding\\CIPlatformWebAPI_PostgreSQL\\CIPlatformWebAPI_PostgreSQL\\CIPlatformWebAPI_PostgreSQL\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-30 211036_20240602214222.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Screenshot 2024-05-30 211036_20240602214222.png"
+    },
+    {
+      "Id": "D:\\coding\\CIPlatformWebAPI_PostgreSQL\\CIPlatformWebAPI_PostgreSQL\\CIPlatformWebAPI_PostgreSQL\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-30 211036_20240602214234.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Screenshot 2024-05-30 211036_20240602214234.png"
+    },
+    {
+      "Id": "D:\\coding\\CIPlatformWebAPI_PostgreSQL\\CIPlatformWebAPI_PostgreSQL\\CIPlatformWebAPI_PostgreSQL\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-30 211036_20240602214429.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Screenshot 2024-05-30 211036_20240602214429.png"
+    },
+    {
+      "Id": "D:\\coding\\CIPlatformWebAPI_PostgreSQL\\CIPlatformWebAPI_PostgreSQL\\CIPlatformWebAPI_PostgreSQL\\wwwroot\\UploadMissionImage\\ScreenShot\\Screenshot 2024-05-30 211036_20240602201632.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ScreenShot\\Screenshot 2024-05-30 211036_20240602201632.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CIPlatformWebAPI_PostgreSQL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CIPlatformWebAPI_PostgreSQL.props",
+      "PackagePath": "build\\CIPlatformWebAPI_PostgreSQL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CIPlatformWebAPI_PostgreSQL.props",
+      "PackagePath": "buildMultiTargeting\\CIPlatformWebAPI_PostgreSQL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CIPlatformWebAPI_PostgreSQL.props",
+      "PackagePath": "buildTransitive\\CIPlatformWebAPI_PostgreSQL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
